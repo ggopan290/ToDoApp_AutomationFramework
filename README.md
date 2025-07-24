@@ -112,9 +112,3 @@ Extent report and screenshots will be generated in `Automation Reports/`.
 - Step-wise screenshots for passed and failed steps.
 
 ---
-
-## 📞 Contact
-
-For issues or contributions, please reach out to the project maintainer or open an issue in the repo.
-
----
