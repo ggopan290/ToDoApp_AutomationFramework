@@ -28,7 +28,7 @@ It automates UI tests for a React-based ToDo application with a Node.js/Express 
 |--------------|-----------------------------------|
 | Language      | Java                              |
 | Automation    | Selenium WebDriver, Cucumber BDD  |
-| Test Runner   | JUnit                             |
+| Test Runner   | TestNG                            |
 | Build Tool    | Maven                             |
 | Reports       | ExtentReports                     |
 | Frontend App  | React.js                          |
