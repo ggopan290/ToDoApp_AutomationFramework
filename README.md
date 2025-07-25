@@ -6,7 +6,7 @@
 - **Java**
 - **Selenium WebDriver**
 - **Cucumber (BDD)**
-- **JUnit**
+- **TestNG**
 - **Extent Reports**
 
 It automates UI tests for a React-based ToDo application with a Node.js/Express backend.
